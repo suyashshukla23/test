@@ -1,1 +1,2 @@
 frist time on git
+made first changes 
